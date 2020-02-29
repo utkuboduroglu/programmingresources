@@ -39,7 +39,7 @@ These two sources are the best two sources you can refer to while searching for 
 [Learn C++](https://learncpp.com/) for basic C/C++ with STL tutorial, mostly for beginners
 
 ## Python
-[Anaconda](https://www.anaconda.com/distribution/) for a collection of useful python libraries
-[Django](https://www.djangoproject.com/), a library for developing dynamic web applications
+[Anaconda](https://www.anaconda.com/distribution/) for a collection of useful python libraries\
+[Django](https://www.djangoproject.com/), a library for developing dynamic web applications\
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) for a tutorial on numpy, plotting & ML in python
 
